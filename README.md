@@ -21,30 +21,20 @@
 
 My Blog Portfolio is a fully responsive website <br />Responsive for all devices, build using HTML CSS JavaScript.
 
-<!-- <a href="https://clear-sleet.surge.sh/"><strong>➥ Live</strong></a> -->
+
 
 </div>
 
 <br />
-
-### Screeshots
-
-![My Blog & Portfolio]( "Desktop Mode")
-
-### I offer the following services:
-
-- Frontend
-- Backend
-- Full stack
 
 ### 🛠 My Skills
 
 - HTML
 - CSS
 - JavaScript
-- Python
+- C++
 
-## My Portfolio Tech Stack (Dependencies)
+## My Portfolio Tech Stack 
 
 ### Frontend Dependencies
 
@@ -56,7 +46,7 @@ You must have the **HTML**, **CSS**, **JavaScript** for website.
 
 ## Author
 
-- [@mahmoudessam820](https://github.com/NavneetMishra10)
+- [@NavneetMishra](https://github.com/NavneetMishra10)
 
 ## 🔗 Links
 
@@ -67,8 +57,6 @@ You must have the **HTML**, **CSS**, **JavaScript** for website.
 
 If you have any feedback, please reach out to us at navneetmishra00965@gmail.com 📧
 
-## Screenshots
 
-### Home
 
-<!-- ![](./assets/images/home-portfolio.png) -->
+
